@@ -22,12 +22,10 @@ With FourSeason, traveling becomes effortless, organized, and stress-free.
 ### 2. **Flight Bookings & Management** ✈️
 - Search and book flights tailored to your preferences (price, duration, airlines).
 - Real-time flight status updates and notifications.
-- Store digital copies of your tickets securely within the app.
 
 ### 3. **Hajj & Umrah Planning** 🕋
 - Dedicated section for Hajj and Umrah travelers.
 - Guidance on necessary permits, accommodations, and schedules.
-- Integration with trusted travel agencies for seamless arrangements.
 
 ### 4. **Taxi Booking for Airport Transfers** 🚖
 - Pre-book taxis or ride-sharing services to take you to/from the airport.
@@ -62,12 +60,11 @@ With FourSeason, traveling becomes effortless, organized, and stress-free.
 
 ## **Technologies Used**
 
-- **Frontend**: Flutter (Cross-platform mobile development)
-- **Backend**: Node.js/Python (REST APIs)
-- **Database**: PostgreSQL (Relational data) + Firebase (Real-time updates)
-- **Cloud Services**: AWS/GCP for hosting and scalability
-- **Translation Engine**: Google Cloud Translation API
-- **Voice Processing**: Google Text-to-Speech & Speech-to-Text APIs
+- **Frontend**: Flutter 
+- **Backend**: Laravel 
+- **Database**: MySQL + Firebase
+- **Translation Engine**: Mymemory translation api
+- **Voice Processing**:  Text-to-Speech & Speech-to-Text Flutter Packages.
 
 ---
 
@@ -81,15 +78,6 @@ With FourSeason, traveling becomes effortless, organized, and stress-free.
 
 ![Translation](link-to-image.png)  
 *In-App Translation Feature*
-
----
-
-## **Future Enhancements**
-
-- **Multi-City Itineraries**: Plan trips across multiple destinations seamlessly.
-- **Offline Mode**: Access key features without an internet connection.
-- **AI-Powered Recommendations**: Personalized suggestions for activities, restaurants, and hotels.
-- **Emergency Contacts**: Instant access to local authorities and embassies worldwide.
 
 ---
 
@@ -108,15 +96,7 @@ We welcome contributions from developers, designers, and travel enthusiasts! If 
 
 Have questions, feedback, or feature requests? We'd love to hear from you!
 
-📧 Email: support@fourseasonapp.com  
-🌐 Website: [www.fourseasonapp.com](http://www.fourseasonapp.com)  
-📱 Social Media: [@FourSeasonApp](https://twitter.com/fourseasonapp)
-
----
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+📧 Email: Ayhamhasan6@gmail.com   
 
 ---
 
